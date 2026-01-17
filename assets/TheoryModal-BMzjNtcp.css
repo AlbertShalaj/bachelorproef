@@ -1,0 +1,1 @@
+.accordion-enter-active[data-v-af16ec5e],.accordion-leave-active[data-v-af16ec5e]{transition:all .3s ease;overflow:hidden}.accordion-enter-from[data-v-af16ec5e],.accordion-leave-to[data-v-af16ec5e]{opacity:0;max-height:0;transform:translateY(-10px)}.accordion-enter-to[data-v-af16ec5e],.accordion-leave-from[data-v-af16ec5e]{opacity:1;max-height:1000px;transform:translateY(0)}
